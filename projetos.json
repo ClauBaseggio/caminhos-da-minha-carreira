@@ -1,0 +1,65 @@
+[
+  {
+    "area": "Cultura & Impacto Social",
+    "nome": "Projeto Ser Mulher",
+    "descricao": "Projeto CicLAR Coletivo de Mulheres: em andamento, promove encontros e círculos de saberes voltados para mulheres com mais de 18 anos, organizando vivências com mulheres em situaç ão de vulnerabilidade social para resgatar a relação com a valorização do envelhecimento feminino e ressignificação dos ciclos de vida. Gestão semanal de cronograma, escopo e custos, com reuniões regulares envolvendo equipe do coletivo e profissionais convidados. \nFerramentas: Notion | Google Workspace",
+    "inicio": "2025-03",
+    "fim": ""
+  },
+  {
+    "area": "Negócios & Estratégia",
+    "nome": "Projeto Mapeamento PCP",
+    "descricao": "Projeto de mapeamento do processo de PCP para padronizar, otimizar e documentar todas as etapas do planejamento e controle da produção na fundição, desde o recebimento da demanda comercial até a entrega do produto acabado. Implementação com levantamento de processos atuais, identificação de gargalos produtivos e definição de fluxos operacionais integrados ao SAP S/4HANA. \nFerramentas: Trello | Excel | SAP S/4HANA",
+    "inicio": "2025-01",
+    "fim": "2025-06"
+  },
+  {
+    "area": "Negócios & Estratégia",
+    "nome": "Projeto Mapeamento Área Comercial",
+    "descricao": "Projeto de mapeamento dos processos da área comercial para estruturar, padronizar e documentar todas as etapas do ciclo de vida dos pedidos desd e a prospecção de clientes até o fechamento do pedido e acompanhamento pós venda. Implementação com levantamento de processos atuais,  identificação de gaps, definição de fluxos de trabalho claros e integração com sistema SAP S/4HANA. \nFerramentas: Trello | Microsoft Office | SAP S/4HANA",
+    "inicio": "2025-01",
+    "fim": "2025-06"
+  },
+  {
+    "area": "TI & Automação",
+    "nome": "Implantação de Solução Pagamento com Reconhecimento Facial",
+    "descricao": "Gestão da implantação de soluções de pagamento por reconhecimento facial em mais de 10 lojas para grande rede varejista nas regiões de São Paulo, Rio de Janeiro, Minas Gerais e Espírito Santo. Projeto envolv eu alinhamento técnico e estratégico com clientes, gestão da implementação em campo, garantia de integração com sistemas existentes e conformidade com LGPD. \nFerramentas: ARTIA | JIRA | Monday | Google Workspace",
+    "inicio": "2023-10",
+    "fim": "2024-09"
+  },
+  {
+    "area": "TI & Automação",
+    "nome": "Implantação PIX",
+    "descricao": "Gestão da implantação da 1ª fase do sistema de pagamentos instantâneos (PIX) para cliente bancário internacional, coordenando customizações do produto e garantindo conformidade com normas internacionais de Compliance. Gestão estratégica de equipes de desenvolvimento de software com r euniões 1:1, feedbacks contínuos e planos de desenvolvimento individual. \nFerramentas: Trello | JIRA | Google Workspace",
+    "inicio": "2021-03",
+    "fim": "2022-02"
+  },
+  {
+    "area": "TI & Automação",
+    "nome": "Implantação Sistema Folha de Pagamento",
+    "descricao": "Gestão da implantação do ERP na área de RH e nos processos de Administração de Pessoal em 02 aeroportos do grupo alemão de concessões aeroportuárias, onduzindo mapeamento de processos, alinhamento com áreas chave e gestão das entregas em múltiplas frentes simultâneas.\nFerramentas: JIRA | TOTVS(RM) | Microsoft Office",
+    "inicio": "2017-11",
+    "fim": "2018-04"
+  },
+  {
+    "area": "TI & Automação",
+    "nome": "Implantação do Sistema de Controle de Passageiros ",
+    "descricao": "Gestão da implantação de um sistema, baseado em software de supervisão Elipse, para automatizar o controle de contagem de passageiros para embarque no transporte coletivo aquaviário (barcas), entre as cidades de Niterói, Rio de Janeiro e Ilha de Paquetá e Ilha do Governador.\nFerramentas: ELIPSE | JIRA | Microsoft Office",
+    "inicio": "2012-07",
+    "fim": "2013-11"
+  },
+  {
+    "area": "TI & Automação",
+    "nome": "Atualização Versão Sistema Folha de Pagamento",
+    "descricao": "Gestão da implantação da nova versão do sistema ERP RM da TOTVS em 22 empresas de um dos maiores grupos de concessão de infraestrutura da América Latina, conduzindo mapeamento de processos, alinhamento com áreas chave e gestão das entregas em múltiplas frentes simultâneas.\nFerramentas: GED | KCOR | JIRA | TOTVS(RM) | Microsoft Office",
+    "inicio": "2011-01",
+    "fim": "2012-07"
+  },
+  {
+    "area": "Negócios & Estratégia",
+    "nome": "Certificação ISO 9001:2000",
+    "descricao": "Gestão do projeto de certificação ISO 9001:2000, atuando como coordenadora do Sistema de Gestão da Qualidade (SGQ), com foco na padronização de processos, mapeamento de riscos, definição de indicadores de desempenho (KPIs) e cond ução de auditorias internas. Liderança na criação e atualização de procedimentos e condução de treinamentos para multiplicadores e colaboradores. \nFerramentas: Microsoft Office | CRM",
+    "inicio": "2007-03",
+    "fim": "2007-12"
+  }
+]
